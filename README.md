@@ -1,12 +1,28 @@
-# React + Vite
+# Brainwave AI Landing page Clone 
+## <a name="introduction">Introduction</a>
+This is a clone of Brainwave AI website, built using **React.js** and **TailwindCSS**. 
+Check it out here 👉 [Brainwave](https://mashakrot.github.io/brainwave/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. [Tech Stack](#tech-stack)
+2. [Features](#features)
+   
+## <a name="tech-stack">Tech Stack</a>
 
-Currently, two official plugins are available:
+- React.js
+- Vite
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## <a name="features">Features</a>
 
-## Expanding the ESLint configuration
+👉 **Interactive Benefits Section**: Explore features with animated hover effects, tooltips on icons, and layered media displays.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 **Smooth Transitions & Animations**: Employs Tailwind's transition classes for fluid interactions, including scaling effects and hover tooltips.
+
+👉 **Modular Components**: Reusable React components such as Section, Heading, and custom SVG assets keep the codebase maintainable.
+
+👉 **Customizable Look & Feel**: Styled with Tailwind CSS, allowing easy adjustments to colors, typography, and spacing.
+
+👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+
+------
+big thanks to [@javascriptmastery](https://www.youtube.com/@javascriptmastery) for this incredible course.
