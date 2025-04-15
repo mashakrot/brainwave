@@ -1,6 +1,7 @@
 # Brainwave AI Landing page Clone 
 ## <a name="introduction">Introduction</a>
 This is a clone of Brainwave AI website, built using **React.js** and **TailwindCSS**. 
+
 Check it out here 👉 [Brainwave](https://mashakrot.github.io/brainwave/)
 
 1. [Tech Stack](#tech-stack)
@@ -8,21 +9,27 @@ Check it out here 👉 [Brainwave](https://mashakrot.github.io/brainwave/)
    
 ## <a name="tech-stack">Tech Stack</a>
 
-- React.js
-- Vite
-- Tailwind CSS
+- **React**: A JavaScript library for building interactive user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework used to rapidly build custom designs.
+- **JavaScript/JSX**: For building modular components.
+- **SVG & Custom Assets**: For enhanced UI elements and responsive icons.
 
 ## <a name="features">Features</a>
+👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-👉 **Interactive Benefits Section**: Explore features with animated hover effects, tooltips on icons, and layered media displays.
+👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
 
-👉 **Smooth Transitions & Animations**: Employs Tailwind's transition classes for fluid interactions, including scaling effects and hover tooltips.
+👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+
+👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+
+👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
 👉 **Modular Components**: Reusable React components such as Section, Heading, and custom SVG assets keep the codebase maintainable.
 
-👉 **Customizable Look & Feel**: Styled with Tailwind CSS, allowing easy adjustments to colors, typography, and spacing.
+👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.   
 
-👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+and many more, including code architecture and reusability
 
 ------
 big thanks to [@javascriptmastery](https://www.youtube.com/@javascriptmastery) for this incredible course.
